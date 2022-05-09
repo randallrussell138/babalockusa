@@ -1,4 +1,4 @@
-# Baba Lock USA
+# BabaLock USA
 
 ![cropped-LOGO](https://user-images.githubusercontent.com/67083470/167426698-d91df490-f2ec-427a-84da-bab84b0fe39c.png)
 
